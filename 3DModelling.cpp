@@ -1,6 +1,5 @@
 /*
  * Name: Aradhana Elisa
- * Student ID: 109875356
  * Class: CSCI-272
  * Project:  3D Modelling
  *
